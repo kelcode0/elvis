@@ -1,0 +1,14 @@
+{
+  "name": "elviscrespo",
+  "version": "1.0.0",
+  "description": "Practica",
+  "main": " index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "elvis"
+  ],
+  "author": "kelvin",
+  "license": "MIT"
+}
